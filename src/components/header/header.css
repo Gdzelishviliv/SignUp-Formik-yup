@@ -25,6 +25,7 @@ p{
     .header-container{
         width: 100vh;
         justify-content: center;
+        padding: 0;
     }
     h1{
         font-size: 50px;
